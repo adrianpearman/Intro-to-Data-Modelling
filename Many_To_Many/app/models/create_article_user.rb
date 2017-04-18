@@ -1,0 +1,2 @@
+class CreateArticleUser < ApplicationRecord
+end
